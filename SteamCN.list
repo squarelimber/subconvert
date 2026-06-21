@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,steamcdn-a.akamaihd.net
 
 # Add CDNs
 IP-CIDR,45.121.184.0/24,no-resolve
